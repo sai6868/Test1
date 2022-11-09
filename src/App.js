@@ -28,7 +28,7 @@ function App() {
 
         <nav className="flex-column cursor-pointer">
           <h6 className="text-primary m-0" data-bs-toggle="collapse" data-bs-target="#animals" aria-controls="animals" aria-expanded="false" aria-label="Toggle navigation">
-            <MdOutlineKeyboardArrowRight fontSize={25} className="mb-1 arrow-icon" />{DATA[1].title}
+            <MdOutlineKeyboardArrowRight fontSize={25} className="mb-1 arrow-icon text-primary" />{DATA[1].title}
           </h6>
           <div className="collapse navbar-collapse" id="animals">
             <ul className="navbar-nav flex-column pb-3">
