@@ -1,0 +1,65 @@
+[
+    {
+        "title": "Birds",
+        "images": [
+            {
+                "name": "Parrot",
+                "url": "https://www.thesprucepets.com/thmb/82yHp68zxPA6nLTWvI7oXt7gptw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/close-up-of-gold-and-blue-macaw-perching-on-tree-962288862-5b50073e46e0fb0037c23c23.jpg"
+            },
+            {
+                "name": "Swan",
+                "url": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/295430011/1800"
+            },
+            {
+                "name": "Pigeon",
+                "url": "https://media.istockphoto.com/photos/pigeons-picture-id1317127723?k=20&m=1317127723&s=612x612&w=0&h=DzXP3gPP9Xx1eM7LfMIHf9M0co8ExrGlZ79_cNWhqZU="
+            },
+            {
+                "name": "Peacock",
+                "url": "https://cdn.britannica.com/37/154237-050-A76A506D/blue-peafowl-tail-Indian-peacock-courtship-displays.jpg"
+            }
+        ]
+    },
+    {
+        "title": "Animals",
+        "images": [
+            {
+                "name": "Lion",
+                "url": "https://nationalzoo.si.edu/sites/default/files/animals/africanlion-006_0.jpg"
+            },
+            {
+                "name": "Tiger",
+                "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbbdFvnATiAMYK3e_M9wqB-wK7YUyB22pgIA&usqp=CAU"
+            },
+            {
+                "name": "Panda",
+                "url": "https://www.cbc.ca/kids/images/asian_animals_red_panda.jpg"
+            },
+            {
+                "name": "Polar Bear",
+                "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwZIsk26p6mxg7HThOHVyFjERIQHt8kf1l0w&usqp=CAU"
+            }
+        ]
+    },
+    {
+        "title": "Dog Breeds",
+        "images": [
+            {
+                "name": "German Shepherd",
+                "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcbw0s_Y4IV4njgV456LUKOAxGRaaSF78Wg3jwR5ssFSRSyFkNwDxqBd4UaOKPrL2r4O0&usqp=CAU"
+            },
+            {
+                "name": "Labrador Retriever",
+                "url": "https://www.zooplus.ie/magazine/wp-content/uploads/2019/11/Labrador-retriever-puppies-IE-1024x683.jpg"
+            },
+            {
+                "name": "Husky",
+                "url": "https://cdn.britannica.com/84/232784-050-1769B477/Siberian-Husky-dog.jpg"
+            },
+            {
+                "name": "Poodle",
+                "url": "https://a-z-animals.com/media/Poodle-Canis-familiaris-white.jpg"
+            }
+        ]
+    }
+]
